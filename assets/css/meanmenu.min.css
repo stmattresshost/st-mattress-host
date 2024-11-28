@@ -119,7 +119,7 @@ a.meanmenu-reveal{display:none}
   color: #fff !important;
 }
 .mean-container a.meanmenu-reveal:hover span {
-  background: #fff;
+  background: #080808;
 }
 .mean-container .mean-bar::before {
     color: #fff;
