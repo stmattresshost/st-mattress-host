@@ -6468,3 +6468,17 @@ ul.social-box li a:hover {
 .product-section{
     padding: 30px 0px !important;
 }
+.price-div{
+    display: flex;
+  /* justify-content: space-between; */
+  padding: 20px 4px;
+}
+.final-price{
+    color: #14aa14;
+}
+.actual-price{
+    text-decoration: line-through;
+    color: #5b5b5b;
+    margin-top: 20px;
+    margin-left: 11px;
+}
