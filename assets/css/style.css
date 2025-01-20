@@ -1447,6 +1447,10 @@ p.footer-desc {
     display: inline-block;
     font-family: 'Lato', sans-serif;
 }
+.footer-phone:hover {
+    color: var(--primary-color);
+    
+}
 
 .footer-widget-title h4 {
     font-size: 22px;
