@@ -6753,3 +6753,6 @@ ul.social-box li a:hover {
     list-style-type: disc;
     color: black;
 }
+.product-head{
+    min-height: 73px;
+}
