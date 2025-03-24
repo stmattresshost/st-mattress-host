@@ -5658,7 +5658,7 @@ ul.social-box li a:hover {
 .product-display {
     height: auto;
     background-color: #fff;
-    padding: 50px 30px;
+    padding: 50px 0px;
 }
 
 .single-product-div {
@@ -6668,6 +6668,17 @@ ul.social-box li a:hover {
 }
 .action-div{
     padding-bottom: 10px;
+}
+@media screen and (max-width: 300px) {
+    .action-div {
+       display: grid;
+    }
+}
+@media (min-width: 1199px) and (max-width: 1400px) {
+    /* Your CSS styles here */
+    .action-div {
+        display: grid;
+     }
 }
 .product-buy-btn {
     background: #d30000ed;
