@@ -484,5 +484,59 @@
     "Thickens": "6",
     "Warranty": "15",
     "Price": "52000"
+  },
+  {
+    "ProductName": "Memory Pillow",
+    "Category": "Pillows",
+    "Warranty": "1",
+    "Price": "1000"
+  },
+  {
+    "ProductName": "Memory Pillow Small",
+    "Category": "Pillows",
+    "Warranty": "1",
+    "Price": "800"
+  },
+  {
+    "ProductName": "Latex Pillow",
+    "Category": "Pillows",
+    "Warranty": "1",
+    "Price": "2500"
+  },
+  {
+    "ProductName": "Fiber Pillow",
+    "Category": "Pillows",
+    "Warranty": "1",
+    "Price": "400"
+  },
+  {
+    "ProductName": "Foam Pillow",
+    "Category": "Pillows",
+    "Warranty": "1",
+    "Price": "150"
+  },
+  {
+    "ProductName": "Water Protectors",
+    "Category": "Water Protectors",
+    "Size": "78x36",
+    "Price": "1000"
+  },
+  {
+    "ProductName": "Water Protectors",
+    "Category": "Water Protectors",
+    "Size": "78x48",
+    "Price": "1200"
+  },
+  {
+    "ProductName": "Water Protectors",
+    "Category": "Water Protectors",
+    "Size": "78x60",
+    "Price": "1500"
+  },
+  {
+    "ProductName": "Water Protectors",
+    "Category": "Water Protectors",
+    "Size": "78x72",
+    "Price": "1800"
   }
 ]
