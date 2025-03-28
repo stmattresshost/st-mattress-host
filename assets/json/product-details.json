@@ -304,5 +304,185 @@
     "Thickens": "8",
     "Warranty": "10",
     "Price": "35000"
+  },
+  {
+    "ProductName": "Foam Bed",
+    "Category": "Mattress",
+    "Feet": "3",
+    "Size": "72x36",
+    "Thickens": "4",
+    "Warranty": "1",
+    "Price": "3999"
+  },
+  {
+    "ProductName": "Foam Bed",
+    "Category": "Mattress",
+    "Feet": "3",
+    "Size": "75x36",
+    "Thickens": "4",
+    "Warranty": "1",
+    "Price": "3999"
+  },
+  {
+    "ProductName": "Foam Bed",
+    "Category": "Mattress",
+    "Feet": "4",
+    "Size": "72x48",
+    "Thickens": "4",
+    "Warranty": "1",
+    "Price": "5999"
+  },
+  {
+    "ProductName": "Foam Bed",
+    "Category": "Mattress",
+    "Feet": "4",
+    "Size": "75x48",
+    "Thickens": "4",
+    "Warranty": "1",
+    "Price": "5999"
+  },
+  {
+    "ProductName": "Foam Bed",
+    "Category": "Mattress",
+    "Feet": "5",
+    "Size": "72x60",
+    "Thickens": "5",
+    "Warranty": "1",
+    "Price": "6999"
+  },
+  {
+    "ProductName": "Foam Bed",
+    "Category": "Mattress",
+    "Feet": "5",
+    "Size": "75x60",
+    "Thickens": "5",
+    "Warranty": "1",
+    "Price": "6999"
+  },
+  {
+    "ProductName": "Foam Bed",
+    "Category": "Mattress",
+    "Feet": "6",
+    "Size": "72x75",
+    "Thickens": "5",
+    "Warranty": "1",
+    "Price": "7999"
+  },
+  {
+    "ProductName": "Foam Bed",
+    "Category": "Mattress",
+    "Feet": "6",
+    "Size": "72x75",
+    "Thickens": "6",
+    "Warranty": "1",
+    "Price": "7999"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "3",
+    "Size": "75x36",
+    "Thickens": "2",
+    "Warranty": "10",
+    "Price": "10000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "3",
+    "Size": "75x36",
+    "Thickens": "4",
+    "Warranty": "12",
+    "Price": "18000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "3",
+    "Size": "75x36",
+    "Thickens": "6",
+    "Warranty": "15",
+    "Price": "26000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "4",
+    "Size": "75x48",
+    "Thickens": "2",
+    "Warranty": "10",
+    "Price": "13000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "4",
+    "Size": "75x48",
+    "Thickens": "4",
+    "Warranty": "12",
+    "Price": "25000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "4",
+    "Size": "75x48",
+    "Thickens": "6",
+    "Warranty": "15",
+    "Price": "36000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "5",
+    "Size": "75x60",
+    "Thickens": "2",
+    "Warranty": "10",
+    "Price": "16000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "5",
+    "Size": "75x60",
+    "Thickens": "4",
+    "Warranty": "12",
+    "Price": "30000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "5",
+    "Size": "75x60",
+    "Thickens": "6",
+    "Warranty": "15",
+    "Price": "42000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "6",
+    "Size": "75x72",
+    "Thickens": "2",
+    "Warranty": "10",
+    "Price": "18000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "6",
+    "Size": "75x72",
+    "Thickens": "4",
+    "Warranty": "12",
+    "Price": "33000"
+  },
+  {
+    "ProductName": "Thai Land Latex Topper",
+    "Category": "Mattress",
+    "Feet": "6",
+    "Size": "75x72",
+    "Thickens": "6",
+    "Warranty": "15",
+    "Price": "52000"
   }
 ]
