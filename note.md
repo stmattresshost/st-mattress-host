@@ -1,0 +1,26 @@
+3	75x36	8inch	5y	7500
+	75x36	10inc	7y	9000
+
+4	75x48	8inch	5y	9500
+	75x48	10inc	7y	12000
+
+5	75x60	8inch	5y	12000
+	75x60	10inc	7y	14500
+
+6	75x72	8inch	5y	14500
+	75x72	10inc	7y	16000
+
+    pocket Spring + super Soft
+
+
+3	75x36	8inch	7y	9000
+	75x36	10inc	8y	10500
+
+4	75x48	8inch	7y	12000
+	75x48	10inc	8y	15000
+
+5	75x60	8inch	7y	14500
+	75x60	10inc	8y	18500
+
+6	75x72	8inch	7y	20000
+	75x72	10inc	8y	23000
