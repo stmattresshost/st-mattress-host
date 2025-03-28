@@ -70,5 +70,77 @@
     "Thickens": "10",
     "Warranty": "7",
     "Price": "16000"
+  },
+  {
+    "ProductName": "Pocket Spring Super Soft",
+    "Category": "Mattress",
+    "Feet": "3",
+    "Size": "75x36",
+    "Thickens": "8",
+    "Warranty": "7",
+    "Price": "9000"
+  },
+  {
+    "ProductName": "Pocket Spring Super Soft",
+    "Category": "Mattress",
+    "Feet": "3",
+    "Size": "75x36",
+    "Thickens": "10",
+    "Warranty": "8",
+    "Price": "10500"
+  },
+  {
+    "ProductName": "Pocket Spring Super Soft",
+    "Category": "Mattress",
+    "Feet": "4",
+    "Size": "75x48",
+    "Thickens": "8",
+    "Warranty": "7",
+    "Price": "12000"
+  },
+  {
+    "ProductName": "Pocket Spring Super Soft",
+    "Category": "Mattress",
+    "Feet": "4",
+    "Size": "75x48",
+    "Thickens": "10",
+    "Warranty": "8",
+    "Price": "15000"
+  },
+  {
+    "ProductName": "Pocket Spring Super Soft",
+    "Category": "Mattress",
+    "Feet": "5",
+    "Size": "75x60",
+    "Thickens": "8",
+    "Warranty": "7",
+    "Price": "14500"
+  },
+  {
+    "ProductName": "Pocket Spring Super Soft",
+    "Category": "Mattress",
+    "Feet": "5",
+    "Size": "75x60",
+    "Thickens": "10",
+    "Warranty": "8",
+    "Price": "18500"
+  },
+  {
+    "ProductName": "Pocket Spring Super Soft",
+    "Category": "Mattress",
+    "Feet": "6",
+    "Size": "75x72",
+    "Thickens": "8",
+    "Warranty": "7",
+    "Price": "20000"
+  },
+  {
+    "ProductName": "Pocket Spring Super Soft",
+    "Category": "Mattress",
+    "Feet": "6",
+    "Size": "75x72",
+    "Thickens": "10",
+    "Warranty": "8",
+    "Price": "23000"
   }
 ]
