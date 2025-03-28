@@ -232,5 +232,77 @@
     "Thickens": "8",
     "Warranty": "3 to 5",
     "Price": "21000"
+  },
+  {
+    "ProductName": "Ortho Latex",
+    "Category": "Mattress",
+    "Feet": "3",
+    "Size": "75x36",
+    "Thickens": "6",
+    "Warranty": "10",
+    "Price": "18000"
+  },
+  {
+    "ProductName": "Ortho Latex",
+    "Category": "Mattress",
+    "Feet": "3",
+    "Size": "75x36",
+    "Thickens": "8",
+    "Warranty": "10",
+    "Price": "20000"
+  },
+  {
+    "ProductName": "Ortho Latex",
+    "Category": "Mattress",
+    "Feet": "4",
+    "Size": "75x48",
+    "Thickens": "6",
+    "Warranty": "10",
+    "Price": "23000"
+  },
+  {
+    "ProductName": "Ortho Latex",
+    "Category": "Mattress",
+    "Feet": "4",
+    "Size": "75x48",
+    "Thickens": "8",
+    "Warranty": "10",
+    "Price": "25000"
+  },
+  {
+    "ProductName": "Ortho Latex",
+    "Category": "Mattress",
+    "Feet": "5",
+    "Size": "75x60",
+    "Thickens": "6",
+    "Warranty": "10",
+    "Price": "28000"
+  },
+  {
+    "ProductName": "Ortho Latex",
+    "Category": "Mattress",
+    "Feet": "5",
+    "Size": "75x60",
+    "Thickens": "8",
+    "Warranty": "10",
+    "Price": "30000"
+  },
+  {
+    "ProductName": "Ortho Latex",
+    "Category": "Mattress",
+    "Feet": "6",
+    "Size": "75x72",
+    "Thickens": "6",
+    "Warranty": "10",
+    "Price": "33000"
+  },
+  {
+    "ProductName": "Ortho Latex",
+    "Category": "Mattress",
+    "Feet": "6",
+    "Size": "75x72",
+    "Thickens": "8",
+    "Warranty": "10",
+    "Price": "35000"
   }
 ]
