@@ -539,8 +539,8 @@
 				.then(products => {
 					const container = document.getElementById('product-container');
 
-					// Filter Product with category === "Bonnell Spring Mattress"
-					const FilteredProduct = products.filter(product => product.ProductName === "Bonnell Spring Mattress");
+					// Filter Product with category 
+					const FilteredProduct = products.filter(product => product.ProductName );
 					FilteredProduct.forEach((product) => {
 						const actualPrice = parseInt(product.Price) + 850
 						const div = document.createElement("div");
