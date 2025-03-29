@@ -2877,14 +2877,7 @@ h4.cleandear-content {
         margin-left: -10px;
     }
 }
-@media screen and  (max-width: 1500px){
-    .long-menu{
-        display: none !important;
-    }
-    .second-menu{
-        display: inline-block !important;
-    }
-}
+
 @media screen and  (max-width: 992px){
     .direction-change{
         flex-direction: column-reverse;
