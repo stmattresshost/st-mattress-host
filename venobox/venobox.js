@@ -1,14 +1,4 @@
-/*
- * VenoBox - jQuery Plugin
- * version: 1.6.0
- * @requires jQuery
- *
- * Examples at http://lab.veno.it/venobox/
- * License: MIT License
- * License URI: https://github.com/nicolafranchini/VenoBox/blob/master/LICENSE
- * Copyright 2013-2015 Nicola Franchini - @nicolafranchini
- *
- */
+
 (function($){
 
     var autoplay, bgcolor, blocknum, blocktitle, border, core, container, content, dest, 
