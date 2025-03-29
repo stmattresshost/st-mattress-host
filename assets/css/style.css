@@ -6767,3 +6767,6 @@ ul.social-box li a:hover {
 .product-head{
     min-height: 73px;
 }
+.actualPrice-index{
+    text-decoration: line-through;
+}
